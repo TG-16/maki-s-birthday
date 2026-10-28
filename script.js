@@ -26,7 +26,7 @@ const PAUSE_POINT = 26; // seconds — resume from here after blow
 /* ================================================================
    ★ COUNTDOWN TARGET DATE — set to April 24, 2027
    ================================================================ */
-const COUNTDOWN_TARGET = new Date("2027-10-28T00:00:00");
+const COUNTDOWN_TARGET = new Date("2027-10-29T00:00:00");
 
 /* ================================================================
    ★ MUSIC ENGINE — clean <audio> element
